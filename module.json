@@ -1,0 +1,23 @@
+{
+  "name": "syrin-play",
+  "title": "Syrinscape media player",
+  "description": "A module to allow you to play sounds to players running the Syrinscape player, or to yourself and then fed to players.",
+  "author": "AI6K",
+  "version": "1.0.0",
+  "url": "https://github.com/BoomerET/FoundrySyrinscapePlayer",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9",
+  "systems": ["dnd5e"],
+  "socket": true,
+  "esmodules": [
+    "initialize.mjs",
+    "modules/settings.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
