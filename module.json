@@ -4,7 +4,6 @@
   "description": "A module to allow you to play sounds to players running the Syrinscape player, or to yourself and then fed to players.",
   "version": "1.0.0",
   "author": "AI6K, BoomerET",
-  "systems": ["dnd5e"],
   "socket": true,
   "languages": [
     {
