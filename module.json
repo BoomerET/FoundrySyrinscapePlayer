@@ -23,5 +23,5 @@
   "download": "https://github.com/BoomerET/FoundrySyrinscapePlayer/releases/download/1.0.0/SyrinPlayerFVTT.zip",
   "manifest": "https://raw.githubusercontent.com/BoomerET/FoundrySyrinscapePlayer/main/module.json",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9"
 }
