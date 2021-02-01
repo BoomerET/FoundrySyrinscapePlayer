@@ -19,5 +19,7 @@
       "name": "English",
       "path": "lang/en.json"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/BoomerET/FoundrySyrinscapePlayer/main/module.json",
+  "download": "https://github.com/BoomerET/FoundrySyrinscapePlayer/releases/download/1.0.0/SyrinPlayerFVTT.zip"
 }
