@@ -7,7 +7,7 @@ import { getOrCreateFolder } from './modules/settings.mjs';
 
 Hooks.on("ready", function() {
   	let syrinToken = game.settings.get("syrin-play", 'syrinToken');
-  	if (syrinToken == "") {
+  	if ((syrinToken == "") || (syrinToken == "867-5309")) {
   		console.log("SYRIN: Token not set.");
   	} else {	
 		getOrCreateFolder("syrin-play", "Elements", "JournalEntry", "#2f288a", syrinToken);
